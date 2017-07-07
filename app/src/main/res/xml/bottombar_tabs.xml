@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        id="@+id/navi_cafeteria"
+        title="@string/bar_cafeteria"
+        icon="@drawable/ic_cafeteria"
+        barColorWhenSelected="@color/colorPrimary" />
+
+    <tab
+        id="@+id/navi_heladeria"
+        icon="@drawable/ic_heladeria"
+        barColorWhenSelected="@color/colorPrimary"
+        title="@string/bar_heladeria" />
+
+    <tab
+        id="@+id/navi_organicos"
+        icon="@drawable/ic_organico"
+        barColorWhenSelected="@color/colorPrimary"
+        title="@string/bar_organicos" />
+
+</tabs>
